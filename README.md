@@ -1,6 +1,6 @@
 # GLP-1 Prescriber Characteristics and Open Payments Analysis
 
-Analysis of Medicare Part D GLP-1 prescriber characteristics and prescribing behaviors, comparing NPIs that received industry advertising payments to those that did not. This repository examines prescribing volume, provider demographics, and county-level contextual factors across 2018–2023.
+Analysis of Medicare Part D GLP-1 prescriber characteristics and prescribing behaviors, comparing NPIs that received industry advertising payments to those that did not. This repository examines prescribing volume, provider demographics, and county-level contextual factors across 2018–2023. This GitHub is to develop the tables in this google drive https://docs.google.com/spreadsheets/d/1G_p4EjhLXMOOJPQcX84KTlclpa4aCCjTFCKwDNuR9l0/edit?usp=drive_link 
 
 ---
 
