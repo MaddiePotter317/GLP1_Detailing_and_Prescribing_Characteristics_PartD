@@ -1,0 +1,1 @@
+More information on this NDC creation is in this GitHub: https://github.com/MaddiePotter317/GLP1_NDCs
